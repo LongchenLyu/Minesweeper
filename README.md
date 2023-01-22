@@ -1,5 +1,6 @@
 # Minesweeper
-![Image](https://github.com/LongchenLyu/pictures/blob/main/mine.PNG)
+![Image](https://github.com/LongchenLyu/images/blob/main/mine.PNG)
+
 
 C implementation of Minesweeper game using the ncurses library.
 
